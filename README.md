@@ -14,7 +14,7 @@ Example of trained networks with cross-validation (3-fold) of PhysioNet/CinC Cha
  
 G. Bortolan, I. Christov, I. Simova, Potential of Rule-Based Methods and  Deep Learning architectures for ECG Diagnostics.
 
-Diagnostics, 2021.
+Diagnostics, 2021, 11, 1678.   https://doi.org/10.3390/diagnostics11091678
 
 
 
